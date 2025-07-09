@@ -15,7 +15,7 @@ function Header() {
         <span className="h-[50%] aspect-square">
           <LogoDevIcon />
         </span>
-        <p className="text-white text-lg">Khushal</p>
+        <p className="text-white text-lg">K</p>
       </div>
       <div className="flex justify-between items-center">
         {navOptions.map((nav, index) => (
